@@ -1,0 +1,29 @@
+.Div{
+    width: 50%;
+    margin: auto;
+}
+.SearchHeader{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+.Input{
+    width: 80%;
+    height: 25px;
+    padding:15px;
+    background-color: #f6f6f6;
+    font-family: monospace;
+    color: black;
+    outline: none;
+    border: none;
+}
+.HotSearchs{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    font-family: monospace;
+    text-align: center;
+    display: inline-block;
+    background-color: #f6f6f6;
+}

@@ -1,0 +1,10 @@
+.div {
+    width: 50%;
+    margin: auto;
+    overflow-x: scroll;
+}
+
+.CategoryDiv {
+    width: 160px;
+    height: 28vh;
+}
